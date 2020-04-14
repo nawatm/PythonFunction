@@ -24,7 +24,12 @@ def show_info(name="", salary = 30000, lang = "Non Define"):
 
 show_info()
 print()
+
+show_info("Nawat")
+print()
+
 show_info("Nawat", 50000)
 print()
+
 show_info("Nawat", 60000, "Python")
 
